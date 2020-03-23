@@ -1,0 +1,40 @@
+{
+  "name": "html-webpack-change-path-plugin",
+  "version": "1.0.0",
+  "description": "For html-webpack-plugin to change resource address",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "demo": "cd demo && webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidSongzw/html-webpack-change-path-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "html-webpack-plugin",
+    "change",
+    "path",
+    "assets"
+  ],
+  "author": "https://github.com/DavidSongzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidSongzw/html-webpack-change-path-plugin/issues"
+  },
+  "homepage": "https://github.com/DavidSongzw/html-webpack-change-path-plugin#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "peerDependencies": {
+    "html-webpack-plugin": "^3.2.0 || ^4.0.0-0",
+    "webpack": "^4.0.0"
+  }
+}
