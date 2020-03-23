@@ -1,6 +1,6 @@
 # html-webpack-change-path-plugin
 
-For html-webpack-change-path-plugin to change resource address,use in webpack 4 or higher
+For html-webpack-plugin to change resource address,use in webpack 4 or higher
 
 <h2 align="center">Install</h2>
 
